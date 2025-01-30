@@ -17,4 +17,4 @@ func main(){
 	fmt.Printf("Is Asia?: %v\n", canSeeAsia & roles == canSeeAsia)
 	fmt.Printf("Is America?: %v\n", canSeeAmerica & roles == canSeeAmerica )
 
-}
+} 

@@ -49,7 +49,7 @@ const (
 )
 
 
-func tconfig(){
+func main(){
 	fmt.Println("Slot time:", 12*time.Second)
 
 }

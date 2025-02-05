@@ -37,5 +37,5 @@ func main(){
 	fmt.Printf("this is player %v\n", player)
 	fmt.Printf(" the player name is %+v\n", getn)
 
-	fmt.Printf("this is the player's age %+v\n", player.getAge())
+	fmt.Printf("this is the player's age %+v\n", player.age)
 }
